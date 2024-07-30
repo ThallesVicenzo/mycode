@@ -13,3 +13,6 @@ C:\projetos\mycode\obj\Debug\net6.0\refint\mycode.dll
 C:\projetos\mycode\obj\Debug\net6.0\mycode.pdb
 C:\projetos\mycode\obj\Debug\net6.0\mycode.genruntimeconfig.cache
 C:\projetos\mycode\obj\Debug\net6.0\ref\mycode.dll
+C:\projetos\mycode\bin\Debug\net6.0\FluentColorConsole.dll
+C:\projetos\mycode\obj\Debug\net6.0\mycode.sourcelink.json
+C:\projetos\mycode\obj\Debug\net6.0\mycode.csproj.Up2Date
